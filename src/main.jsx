@@ -251,7 +251,7 @@ function App() {
                     <button type="reset" onClick={handleReset}>
                         Reset
                     </button>
-                    <button type="submit">SEND</button>
+                    <button type="submit">Submit</button>
                 </form>
             </fieldset>
         </div>
