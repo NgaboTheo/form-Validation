@@ -111,7 +111,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Form in React</h1>
+            <h1>Form in React js</h1>
             <fieldset>
                 <form onSubmit={handleSubmit}>
                     <label htmlFor="firstname">First Name*</label>
