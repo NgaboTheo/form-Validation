@@ -52,7 +52,7 @@ function App() {
             try {
                 new URL(url);
             } catch {
-                formErrors.url = "Invalid URL format";
+                formErrors.url = "invalid";
             }
         }
 
